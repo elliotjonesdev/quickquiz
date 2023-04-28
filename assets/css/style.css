@@ -9,7 +9,7 @@
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color:grey;
+    background-color:white;
   }
 
   .container {
@@ -31,6 +31,41 @@
     justify-content: center;
     align-items: center;
   }
+
+  .main-title {
+    position: absolute;
+    top: 80px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+    color: white;
+    background-color:purple;
+    font-size: 4rem;
+    font-weight: bold;
+    width: 80%;
+    padding: 10px 0;
+  }
+
+  .score-area{
+    position: absolute;
+    bottom: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+    color: black;
+    background-color: rgb(166, 230, 29);
+    font-size: 20px;
+    font-weight: bold;
+    width: 500px;
+    padding: 10px 0;
+  }
+  
+
 
 
 
