@@ -31,10 +31,29 @@
     color: black;
     outline: none;
   }
+
+  .hide {
+    display: none;
+  }
+
   
   .btn:hover {
     border-color: black;
     border-width: 4px;
+  }
+
+  .start-btn{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: black;
+  }
+
+  .next-btn{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    color:yellowgreen;
   }
 
 
