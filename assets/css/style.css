@@ -9,8 +9,29 @@
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color:blue;
+    background-color:grey;
   }
+
+  .container {
+    width: 800px;
+    max-width: 80%;
+    background-color:red;
+    padding: 10px;
+    border: solid 10px;
+  }
+  .btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+    margin: 20px 0;
+  }
+
+  .controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
 
 
 
