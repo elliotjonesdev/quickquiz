@@ -1,32 +1,94 @@
+const startButton = document.getElementById("start-btn");
+const nextButton = document.getElementById("next-btn");
+const questionContainerElement = document.getElementById("question-container");
+const questionElement = document.getElementById("question");
+const answerButtonsElement = document.getElementById("answer-buttons");
+const scoreDisplay = document.getElementById("score");
+const incorrectDisplay = document.getElementById("incorrect");
+let shuffledQuestions, currentQuestionIndex;
+startButton.addEventListener("click", startGame);
+nextButton.addEventListener("click", () => {
+  currentQuestionIndex++;
+  setNextQuestion();
+});
+
+
+
+
+
 function startGame() {
-
+  startButton.classList.add("hide");
+  shuffledQuestions = questions.sort(() => Math.random() - 0.5);
+  currentQuestionIndex = 0;
+  questionContainerElement.classList.remove("hide");
+  setNextQuestion();
+}
+function setNextQuestion() {
+  resetState();
+  showQuestion(shuffledQuestions[currentQuestionIndex]);
+}
+function showQuestion(question) {
+  questionElement.innerText = question.question;
+  question.answers.forEach((answer) => {
+    const button = document.createElement("button");
+    button.innerText = answer.text;
+    button.classList.add("btn");
+    if (answer.correct) {
+      button.dataset.correct = answer.correct;
+    }
+    button.addEventListener("click", selectAnswer);
+    answerButtonsElement.appendChild(button);
+  });
+}
+function resetState() {
+  clearStatusClass(document.body);
+  nextButton.classList.add("hide");
+  while (answerButtonsElement.firstChild) {
+    answerButtonsElement.removeChild(answerButtonsElement.firstChild);
   }
-  function setNextQuestion() {
-
+}
+function selectAnswer(e) {
+  const selectedButton = e.target;
+  const correct = selectedButton.dataset.correct;
+  setStatusClass(document.body, correct);
+  if (shuffledQuestions.length > (currentQuestionIndex)) {
+    nextButton.classList.remove("hide");
+  } else {
+    startButton.innerText = "Restart";
+    startButton.classList.remove("hide");
   }
-  function showQuestion() {
-
+}
+function setStatusClass(element, correct) {
+  if (correct) {
+    element.classList.add("correct");
+    incrementScore();
+  } else {
+    element.classList.add("wrong");
+    incrementWrongAnswer();
   }
-  function resetState() {
+  currentQuestionIndex++;
+  setNextQuestion();
+}
+function clearStatusClass(element) {
+  element.classList.remove("correct");
+  element.classList.remove("wrong");
+}
+/**
+ * Gets the current score from the DOM and increments it by 1
+ */
+function incrementScore() {
+  let oldScore = parseInt(scoreDisplay.innerText);
+  scoreDisplay.innerText = ++oldScore;
+}
+/**
+* Gets the current tally of incorrect answers from the DOM and increments it by 1
+*/
+function incrementWrongAnswer() {
+  let oldScore = parseInt(incorrectDisplay.innerText);
+  incorrectDisplay.innerText = ++oldScore;
+  
+}
 
-  }
-  function selectAnswer() {
-
-  }
-  function setStatusClass() {
-
-  }
-  function clearStatusClass() {
-
-  }
-
-  function incrementScore() {
-
-  }
-
-  function incrementWrongAnswer() {
-
-  }
 
   const questions = [
     {
