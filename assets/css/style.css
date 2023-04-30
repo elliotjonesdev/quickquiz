@@ -36,6 +36,10 @@
     display: none;
   }
 
+.main-title.i.fa-solid.fa-fire-flame {
+color: red;
+  }
+
   
   .btn:hover {
     border-color: black;

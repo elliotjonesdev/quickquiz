@@ -12,10 +12,6 @@ nextButton.addEventListener("click", () => {
   setNextQuestion();
 });
 
-
-
-
-
 function startGame() {
   startButton.classList.add("hide");
   shuffledQuestions = questions.sort(() => Math.random() - 0.5);
@@ -23,9 +19,12 @@ function startGame() {
   questionContainerElement.classList.remove("hide");
   setNextQuestion();
 }
+
+
 function setNextQuestion() {
   resetState();
   showQuestion(shuffledQuestions[currentQuestionIndex]);
+  nextButton("hide");
 }
 function showQuestion(question) {
   questionElement.innerText = question.question;
@@ -73,16 +72,12 @@ function clearStatusClass(element) {
   element.classList.remove("correct");
   element.classList.remove("wrong");
 }
-/**
- * Gets the current score from the DOM and increments it by 1
- */
+
 function incrementScore() {
   let oldScore = parseInt(scoreDisplay.innerText);
   scoreDisplay.innerText = ++oldScore;
 }
-/**
-* Gets the current tally of incorrect answers from the DOM and increments it by 1
-*/
+
 function incrementWrongAnswer() {
   let oldScore = parseInt(incorrectDisplay.innerText);
   incorrectDisplay.innerText = ++oldScore;
@@ -104,7 +99,7 @@ function incrementWrongAnswer() {
       question: "What is the biggest grossing movie?",
       answers: [
         { text: "Lion King", correct: false },
-        { text: "Mr Titanic", correct: false },
+        { text: "Titanic", correct: false },
         { text: "Avengers End Game", correct: false },
         { text: "Avatar", correct: true }
       ]
