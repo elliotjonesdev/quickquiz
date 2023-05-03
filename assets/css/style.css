@@ -1,136 +1,130 @@
-
-  body {
-    font-family: Courier, Helvetica, sans-serif;
-    --hue: var(--hue-neutral);
-    padding: 0;
-    margin: 0;
-    display: flex;
-    width: 100vw;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
-    background-color:white;
-  }
-
-  .container {
-    width: 800px;
-    max-width: 80%;
-    background-color:red;
-    padding: 10px;
-    border: solid 10px;
-  }
-  .btn-grid {
-    display: grid;
-    grid-template-columns: repeat(2, auto);
-    gap: 10px;
-    margin: 20px 0;
-  }
-
-  .btn {
-    padding: 5px 10px;
-    color: black;
-    outline: none;
-  }
-
-  .hide {
-    display: none;
-  }
-
+body {
+  font-family: Courier, Helvetica, sans-serif;
+  --hue: var(--hue-neutral);
+  padding: 0;
+  margin: 0;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color:white;
+}
+.container {
+  width: 800px;
+  max-width: 80%;
+  background-color:red;
+  padding: 10px;
+  border: solid 10px;
+}
+.btn-grid {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 10px;
+  margin: 20px 0;
+}
+#restart-btn {
+  color: black;
+  outline: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  visibility: hidden;
+}
+.btn {
+  padding: 5px 10px;
+  color: black;
+  outline: none;
+}
+.hide {
+  display: none;
+}
 .main-title.i.fa-solid.fa-fire-flame {
 color: red;
-  }
+}
 
-  
-  .btn:hover {
-    border-color: black;
-    border-width: 4px;
-  }
-
-  .start-btn{
-    font-size: 1.5rem;
-    font-weight: bold;
-    padding: 10px 20px;
-    color: black;
-  }
-
-  .next-btn{
-    font-size: 1.5rem;
-    font-weight: bold;
-    padding: 10px 20px;
-    color:yellowgreen;
-  }
-
-
-  .controls {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
+.btn:hover {
+  border-color: black;
+  border-width: 4px;
+}
+.start-btn{
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: black;
+}
+.next-btn{
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color:yellowgreen;
+}
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-title {
+  position: absolute;
+  top: 80px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: white;
+  background-color:purple;
+  font-size: 4rem;
+  font-weight: bold;
+  width: 80%;
+  padding: 10px 0;
+}
+.score-area{
+  position: absolute;
+  bottom: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: black;
+  background-color: rgb(166, 230, 29);
+  font-size: 20px;
+  font-weight: bold;
+  width: 80%;
+}
+@media screen and (max-width: 1200px) {
   .main-title {
     position: absolute;
-    top: 80px;
+    top: 100px;
     display: flex;
     align-items: center;
-    text-align: center;
     justify-content: center;
     text-decoration: none;
     margin-bottom: 10px;
     color: white;
-    background-color:purple;
-    font-size: 4rem;
-    font-weight: bold;
-    width: 80%;
-    padding: 10px 0;
-  }
-
-  .score-area{
-    position: absolute;
-    bottom: 180px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
-    margin-bottom: 10px;
-    color: black;
-    background-color: rgb(166, 230, 29);
-    font-size: 20px;
-    font-weight: bold;
-    width: 80%;
-  }
-
-  @media screen and (max-width: 1200px) {
-    .main-title {
-      position: absolute;
-      top: 100px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-decoration: none;
-      margin-bottom: 10px;
-      color: white;
-      font-size: 180%;
-      font-weight:2rem;
-      width: 300px;
-      text-align: center;
-    }
-
-  .score-area{
-    position: absolute;
-    bottom: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    color:black;
-    font-size: 12px;
-    font-weight:400;
+    font-size: 180%;
+    font-weight:2rem;
     width: 300px;
-    padding: 5px 0;
-    
+    text-align: center;
   }
+.score-area{
+  position: absolute;
+  bottom: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  color:black;
+  font-size: 12px;
+  font-weight:400;
+  width: 300px;
+  padding: 5px 0;
+  
+}
 }
 
   

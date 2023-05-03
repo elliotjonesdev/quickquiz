@@ -1,5 +1,5 @@
 const startButton = document.getElementById("start-btn");
-const nextButton = document.getElementById("next-btn");
+const restartButton = document.getElementById("restart-btn");
 const questionContainerElement = document.getElementById("question-container");
 const questionElement = document.getElementById("question");
 const answerButtonsElement = document.getElementById("answer-buttons");
@@ -7,11 +7,6 @@ const scoreDisplay = document.getElementById("score");
 const incorrectDisplay = document.getElementById("incorrect");
 let shuffledQuestions, currentQuestionIndex;
 startButton.addEventListener("click", startGame);
-nextButton.addEventListener("click", () => {
-  currentQuestionIndex++;
-  setNextQuestion();
-});
-
 function startGame() {
   startButton.classList.add("hide");
   shuffledQuestions = questions.sort(() => Math.random() - 0.5);
@@ -19,12 +14,9 @@ function startGame() {
   questionContainerElement.classList.remove("hide");
   setNextQuestion();
 }
-
-
 function setNextQuestion() {
   resetState();
   showQuestion(shuffledQuestions[currentQuestionIndex]);
-  nextButton("hide");
 }
 function showQuestion(question) {
   questionElement.innerText = question.question;
@@ -41,7 +33,6 @@ function showQuestion(question) {
 }
 function resetState() {
   clearStatusClass(document.body);
-  nextButton.classList.add("hide");
   while (answerButtonsElement.firstChild) {
     answerButtonsElement.removeChild(answerButtonsElement.firstChild);
   }
@@ -51,10 +42,9 @@ function selectAnswer(e) {
   const correct = selectedButton.dataset.correct;
   setStatusClass(document.body, correct);
   if (shuffledQuestions.length > (currentQuestionIndex)) {
-    nextButton.classList.remove("hide");
+    
   } else {
-    startButton.innerText = "Restart";
-    startButton.classList.remove("hide");
+    endGame();
   }
 }
 function setStatusClass(element, correct) {
@@ -66,25 +56,32 @@ function setStatusClass(element, correct) {
     incrementWrongAnswer();
   }
   currentQuestionIndex++;
-  setNextQuestion();
+  if (currentQuestionIndex >= questions.length) {
+    endGame()
+  } else {
+    setNextQuestion();
+  }
 }
 function clearStatusClass(element) {
   element.classList.remove("correct");
   element.classList.remove("wrong");
 }
-
 function incrementScore() {
   let oldScore = parseInt(scoreDisplay.innerText);
   scoreDisplay.innerText = ++oldScore;
 }
-
 function incrementWrongAnswer() {
   let oldScore = parseInt(incorrectDisplay.innerText);
   incorrectDisplay.innerText = ++oldScore;
   
 }
-
-
+function endGame() {
+  startButton.style.visibility = "hidden";
+  restartButton.style.visibility = 'visible';
+  startButton.classList.remove("hide");
+  questionElement.innerText = 'Well done you have finished the game!';
+  answerButtonsElement.style.visibility = 'hidden';
+}
   const questions = [
     {
       question: "What is the 400m mens world record?",
