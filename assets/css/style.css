@@ -11,6 +11,7 @@ body {
   background-color:white;
 }
 .container {
+  margin-top: 90px;
   width: 800px;
   max-width: 80%;
   background-color:red;
@@ -52,13 +53,13 @@ color: red;
   font-weight: bold;
   padding: 10px 20px;
   color: black;
+  width: 120px;
 }
-.next-btn{
-  font-size: 1.5rem;
-  font-weight: bold;
-  padding: 10px 20px;
-  color:yellowgreen;
+
+.restart-btn {
+  width: 120px;
 }
+
 .controls {
   display: flex;
   justify-content: center;
@@ -82,17 +83,17 @@ color: red;
 }
 .score-area{
   position: absolute;
-  bottom: 180px;
+  bottom: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  margin-bottom: 10px;
   color: black;
   background-color: rgb(166, 230, 29);
   font-size: 20px;
   font-weight: bold;
   width: 80%;
+
 }
 @media screen and (max-width: 1200px) {
   .main-title {
@@ -104,20 +105,20 @@ color: red;
     text-decoration: none;
     margin-bottom: 10px;
     color: white;
-    font-size: 180%;
+    font-size: 35px;
     font-weight:2rem;
     width: 300px;
     text-align: center;
   }
 .score-area{
   position: absolute;
-  bottom: 150px;
+  bottom: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-decoration: none;
   margin-bottom: 10px;
-  margin-left: 10px;
+
   color:black;
   font-size: 12px;
   font-weight:400;
