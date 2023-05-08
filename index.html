@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://kit.fontawesome.com/f7afd3b9d0.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Quick Quiz</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <title>Quick Quiz</title>
+  <link rel="icon" type="image/x-icon" href="/assets/images/fireball.png">
 </head>
+
 <body>
 
   <img class="logo" src="assets/images/fireball.png" alt="logo">
 
-  <div class = "main-title">QUICKFIRE QUIZ - Test your knowledge and have fun!</div>
+  <div class="main-title">QUICKFIRE QUIZ - Test your knowledge and have fun!</div>
 
-    <div class="container">
-        <div id="question-container" class="hide">
-          <div id="question">Question</div>
-          <div id="answer-buttons" class="btn-grid">
-            <button class="btn">Answer 1</button>
-            <button class="btn">Answer 2</button>
-            <button class="btn">Answer 3</button>
-            <button class="btn">Answer 4</button>
-          </div>
-        </div>
-        <div class="controls">
-            <button id="start-btn" class="start-btn btn">Start</button>
-            <button id="restart-btn" class="restart-btn btn" 
-              onClick="document.location.reload();">Restart</button>
-          </div>
-          </div>
-          <div class = "score-area">
-            <p class="scores">Correct Answers <span id = "score">0</span> Incorrect Answers <span id = "incorrect">0</span></p>
-          </div>
-    <script src="assets/js/script.js"></script>
+  <div class="container">
+    <div id="question-container" class="hide">
+      <div id="question">Question</div>
+      <div id="answer-buttons" class="btn-grid">
+        <button class="btn">Answer 1</button>
+        <button class="btn">Answer 2</button>
+        <button class="btn">Answer 3</button>
+        <button class="btn">Answer 4</button>
+      </div>
+    </div>
+    <div class="controls">
+      <button id="start-btn" class="start-btn btn">Start</button>
+      <button id="restart-btn" class="restart-btn btn" onClick="document.location.reload();">Restart</button>
+    </div>
+  </div>
+  <div class="score-area">
+    <p class="scores">Correct Answers <span id="score">0</span> Incorrect Answers <span id="incorrect">0</span></p>
+  </div>
+  <script src="assets/js/script.js"></script>
 </body>
+
 </html>
