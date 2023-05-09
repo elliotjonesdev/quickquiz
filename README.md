@@ -5,20 +5,19 @@ put am i responsive here
 
 ## UX
 ### Project Goals
-The primary goal of QUICK QUIZ is to provide a quick and fun quiz at the touch of a button, that is easy to interact with and that provides a quick moment of light enjoyment and interest.
-
+The primary goal of QUICK QUIZ is to provide a quick and fun quiz at the touch of a button, that is easy to interact with and that provides a quick moment of light enjoyment, entertainment and test of some basic general knowledge questions. The website is designed for ease of use as the game player selects each answer, automatically progressing through the questions in a straight forward manner. The playability of the game allows the user to easily restart the game at the click of a button and try again, making usingQuick Quix an enjoyable experience.
 
 
 #### User Goals
-* To find out information about GENER8 GYM quickly and easily
+* To have a challenging but seamless quiz experience
 * Interact with the website in an intuitive manner
-* To identify with the modern appeal and layout of the website
-* To easily operate the website on all devices 
+* To identify with the playful color and logo of the quiz
+* To easily operate the quiz on all devices 
 
-#### Business Goals
-* To inform the user of GENER8 GYM and its services
-* To appeal to the identified target audience
-* To attract new members to the gym membership
+## Features
+
+
+
 
 ## Initial Wireframes
 <p align="center">
