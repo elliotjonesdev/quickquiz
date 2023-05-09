@@ -16,17 +16,19 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 
 ## Features
 * #### Logo and welcome message
-The logo has been created in a simple pixelated format of a flame, designed to match with the name QUICKFIRE QUIZ, sparking initial interest for the game player in a fun and playful format. The welcome message is simple and bold to explain in essence what the game is meant to do for the user. The high contrast against the white background adds to visual appeal.
+  * The logo has been created in a simple pixelated format of a flame, designed to match with the name QUICKFIRE QUIZ, sparking initial interest for the game player in a fun and playful format. The welcome message is simple and bold to explain in essence what the game is meant to do for the user. The high contrast purple against the white background suggests fun and adds to visual appeal.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 10 01" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/d4af54cc-7550-498f-ab5d-a7debc9b0f46"></p>
 
 * #### Start and restart buttons
+  * The start and restart buttons are enlarged to prompt the game player to take action, and when clicked automatically trigger the game to play or replay. The grey buttons create high contrast with the red background of the game area.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 25 42" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/cccf3752-f6af-4b60-a801-689e848bdea6">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 26 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/08eb6734-6ac9-4ca4-9c45-c0304c2f99c0">
 </p>
 
 * #### Question and answer area
+  * The question and answer area is easy to navigate with a simple 4 option layout to choose from. The border has a haevy weighted black border to draw focus to the intent of the game and to guide the user into the area that should be interacted with.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 30 35" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/35fbc143-7d11-473f-81a9-f9d9d8d090b1">
 </p>
