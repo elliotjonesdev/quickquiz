@@ -48,6 +48,9 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  * Color changing game area - when the game is complete the game area will turn from red to green to signify the end of the round, turning back to red when the player clicks the restart button. This would enhance the usability and playability of the game.
  * Additional levels - the game will have 3 levels of increasing difficulty to further engage the player with further challenge. The addition of a level indicator in the game area to signify to the player the stage they have reached in the game.
 
+## Testing
+
+
 
 
 
