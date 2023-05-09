@@ -21,6 +21,13 @@ The logo has been created in a simple pixelated format of a flame, designed to m
 <img width="1440" alt="Screenshot 2023-05-09 at 20 10 01" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/d4af54cc-7550-498f-ab5d-a7debc9b0f46"></p>
 
 * #### Start and restart buttons
+<p align="center">
+<img width="1440" alt="Screenshot 2023-05-09 at 20 25 42" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/cccf3752-f6af-4b60-a801-689e848bdea6">
+<img width="1440" alt="Screenshot 2023-05-09 at 20 26 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/08eb6734-6ac9-4ca4-9c45-c0304c2f99c0">
+</p>
+
+* #### Question and answer area
+
 
 
 
