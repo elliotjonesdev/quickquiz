@@ -15,9 +15,9 @@ The primary goal of QUICK QUIZ is to provide a quick and fun quiz at the touch o
 * To easily operate the quiz on all devices 
 
 ## Features
-
-
-
+<p align="center">
+<img width="1440" alt="Screenshot 2023-05-09 at 20 03 22" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/fd9f7521-63c4-46fa-9d19-3a0939da3540">
+</p>
 
 ## Initial Wireframes
 <p align="center">
