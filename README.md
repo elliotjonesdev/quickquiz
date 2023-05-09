@@ -20,6 +20,10 @@ The logo has been created in a simple pixelated format of a flame, designed to m
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 10 01" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/d4af54cc-7550-498f-ab5d-a7debc9b0f46"></p>
 
+* #### Start and restart buttons
+
+
+
 ## Initial Wireframes
 <p align="center">
   <img width="636" alt="Screenshot 2023-05-08 at 14 19 51" src="https://user-images.githubusercontent.com/119816371/236834995-79029e29-a7f1-4973-b4dd-9cd333e1d0cf.png">
