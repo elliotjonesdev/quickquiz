@@ -1,23 +1,24 @@
-# QUICK QUIZ
-QUICK QUIZ is a responsive and interactive front end quiz game application that enables the user to intuitively play a general knowledge multi choice game in a straight forward and user friendly manner. The game is fun and simple in use allowing the user to start, play and restart the quiz from one screen, trying to improve their score as they repeat the game. 
+# QUICKFIRE QUIZ
+QUICKFIRE QUIZ is a responsive and interactive front end quiz game application that enables the user to intuitively play a general knowledge multi choice game in a straight forward and user friendly manner. The game is fun and simple in use allowing the user to start, play and restart the quiz from one screen, trying to improve their score as they repeat the game. 
 
 put am i responsive here
 
 ## UX
 ### Project Goals
-The primary goal of QUICK QUIZ is to provide a quick and fun quiz at the touch of a button, that is easy to interact with and that provides a quick moment of light enjoyment, entertainment and test of some basic general knowledge questions. The website is designed for ease of use as the game player selects each answer, automatically progressing through the questions in a straight forward manner. The playability of the game allows the user to easily restart the game at the click of a button and try again, making usingQuick Quix an enjoyable experience.
+The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the touch of a button, that is easy to interact with and that provides a quick moment of light enjoyment, entertainment and test of some basic general knowledge questions. The website is designed for ease of use as the game player selects each answer, automatically progressing through the questions in a straight forward manner. The playability of the game allows the user to easily restart the game at the click of a button and try again, making using QUICKFIRE QUIZ an enjoyable experience.
 
 
 #### User Goals
 * To have a challenging but seamless quiz experience
 * Interact with the website in an intuitive manner
 * To identify with the playful color and logo of the quiz
-* To easily operate the quiz on all devices 
+* To easily operate QUICK QUIZ on all devices 
 
 ## Features
+* #### Logo and welcome message
+The logo has been created in a simple pixelated format of a flame, designed to match with the name QUICKFIRE QUIZ, sparking initial interest for the game player in a fun and playful format. The welcome message is simple and bold to explain in essence what the game is meant to do for the user. The high contrast against the white background adds to visual appeal.
 <p align="center">
-
-</p>
+<img width="1440" alt="Screenshot 2023-05-09 at 20 10 01" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/d4af54cc-7550-498f-ab5d-a7debc9b0f46"></p>
 
 ## Initial Wireframes
 <p align="center">
