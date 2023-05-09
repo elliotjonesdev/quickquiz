@@ -27,6 +27,12 @@ The logo has been created in a simple pixelated format of a flame, designed to m
 </p>
 
 * #### Question and answer area
+<p align="center">
+<img width="1440" alt="Screenshot 2023-05-09 at 20 30 35" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/35fbc143-7d11-473f-81a9-f9d9d8d090b1">
+</p>
+
+* #### Score area
+
 
 
 
