@@ -28,12 +28,13 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 </p>
 
 * #### Question and answer area
-  * The question and answer area is easy to navigate with a simple 4 option layout to choose from. The border has a haevy weighted black border to draw focus to the intent of the game and to guide the user into the area that should be interacted with.
+  * The question and answer area is easy to navigate with a simple 4 option layout to choose from. The border has a heavy weighted black outline to draw focus to the intent of the game and to guide the user into the area to interact with. When the user clicks on their chosen answer the next question automatically loads for ease of use.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 30 35" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/35fbc143-7d11-473f-81a9-f9d9d8d090b1">
 </p>
 
 * #### Score area
+ * The score area is designed with high contrast in mind and uses a bright green with black bold text to draw the eye to the scre as it updates when in play mode. When the player chooses an answer the score area automatically updates, and also resets to zero when the user clicks the restart button ready for the next game.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 33 09" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/b25d4a08-9503-4967-8f67-6de6bfc76128">
   </p>
