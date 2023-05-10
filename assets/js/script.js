@@ -63,7 +63,7 @@ function setStatusClass(element, correct) {
   }
   currentQuestionIndex++;
   if (currentQuestionIndex >= questions.length) {
-    endGame()
+    endGame();
   } else {
     setNextQuestion();
   }
