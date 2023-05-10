@@ -65,25 +65,21 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  <img width="1440" alt="Screenshot 2023-05-10 at 19 14 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/4893700e-528e-456e-8efe-8293f0e46bab">
  </p>
 
-
-
-
-
-
-
 ### Responsiveness
-
 * #### iPhone SE
 <p align="center"><img width="1440" alt="Screenshot 2023-05-10 at 19 45 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/ab6c9939-7dbd-441d-a183-cbc0161676c8"></p>
     
- * #### iPad Air 
+ * #### iPad Mini 
    
-  <p align="center"><img width="787" alt="Screenshot 2023-02-21 at 22 38 46" src="https://user-images.githubusercontent.com/119816371/220475020-d96f8f07-a498-4284-b447-7c03558d35df.png"></p>
+  <p align="center"><img width="1440" alt="Screenshot 2023-05-10 at 19 47 46" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/647ee7ef-9f0c-4bab-94af-39f32e76c77e"></p>
   
 ### Lighthouse Analysis
  <p align="center">
 <img width="1440" alt="Screenshot 2023-05-10 at 19 39 18" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/6438b1e1-e33b-4897-a8cf-47bc66da0b2d">
  </p>
+
+
+
 
 
 ### Browser Compatibility
