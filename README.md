@@ -63,6 +63,8 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  <p align="center">
  <img width="1440" alt="Screenshot 2023-05-10 at 19 14 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/4893700e-528e-456e-8efe-8293f0e46bab">
  </p>
+ 
+ ## Deployment
 
 
 
