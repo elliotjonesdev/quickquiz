@@ -1,7 +1,7 @@
 # QUICKFIRE QUIZ
 QUICKFIRE QUIZ is a responsive and interactive front end quiz game application that enables the user to intuitively play a general knowledge multi choice game in a straight forward and user friendly manner. The game is fun and simple in use allowing the user to start, play and restart the quiz from one screen, trying to improve their score as they repeat the game. 
 
-put am i responsive here
+<img width="1440" alt="Screenshot 2023-05-10 at 21 59 12" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/f485ba0e-2c71-42cc-b125-18238380686f">
 
 ## UX
 ### Project Goals
