@@ -63,8 +63,59 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  <p align="center">
  <img width="1440" alt="Screenshot 2023-05-10 at 19 14 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/4893700e-528e-456e-8efe-8293f0e46bab">
  </p>
+
+
+
+
+
+
+
+### Responsiveness
+
+* #### iPhone SE
+<p align="center"><img width="788" alt="Screenshot 2023-02-21 at 22 33 24" src="https://user-images.githubusercontent.com/119816371/220475247-0b8c9b5e-f01f-42f1-8f15-c3c9fbffd2d2.png"></p>
+    
+ * #### iPad Air 
+   
+  <p align="center"><img width="787" alt="Screenshot 2023-02-21 at 22 38 46" src="https://user-images.githubusercontent.com/119816371/220475020-d96f8f07-a498-4284-b447-7c03558d35df.png"></p>
+  
+### Lighthouse Analysis
+
+<img width="1433" alt="Screenshot 2023-02-22 at 15 21 35" src="https://user-images.githubusercontent.com/119816371/220667883-c784e34d-12cb-4a16-af14-7d3f976074cb.png">  
+
+### Browser Compatibility
+
+ * #### Safari
+ The following screenshot shows desktop view for Safari browser
  
+ <img width="1344" alt="Screenshot 2023-02-24 at 16 36 47" src="https://user-images.githubusercontent.com/119816371/221236676-34e24385-f332-4b8c-984d-b0d12127f0ce.png">
+ 
+ * #### Chrome
+  The following screenshot shows desktop view for Chrome browser
+  
+<img width="1440" alt="Screenshot 2023-02-24 at 16 47 16" src="https://user-images.githubusercontent.com/119816371/221237877-35dd9e50-9e1d-4fb0-b5ab-8e0e47e834bd.png">
+
+### User Stories
+<p align="center"><img width="736" alt="Screenshot 2023-02-24 at 21 53 36" src="https://user-images.githubusercontent.com/119816371/221300401-9f657559-7f99-44b4-bd2e-fabbe0b0fe5d.png"></p>
+
+## Features
+<p align="center"><img width="976" alt="Screenshot 2023-02-24 at 17 09 52" src="https://user-images.githubusercontent.com/119816371/221243251-c5281885-4670-497c-a3b9-12607468981d.png"></p>
+
  ## Deployment
+ 
+ * #### The site was deployed to GitHub pages. The steps taken to deploy the site are as follows:
+   * In the GitHub repository, navigate to the Settings tab
+   * From the source section drop-down menu, select the Master Branch
+   * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+## Credits
+### Content
+ * The responsive navbar was taken from [Bootstrap](https://getbootstrap.com/docs/4.5/components/navbar/)
+ * The logo icon, page icons and social icons were taken from [Font Awesome](https://fontawesome.com/v4/icons/)
+ * The page layout was generated using guidance from a [Responsive Bootstrap Website Tutorial](https://www.youtube.com/watch?v=Zn64_IVLO88&t=833s)
+ * The contact form layout was created with code from [Bootstrapious](https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form)
+### Media
+ * Images for the website were taken from [Unsplash](https://unsplash.com/)
 
 
 
