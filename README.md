@@ -74,7 +74,7 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 ### Responsiveness
 
 * #### iPhone SE
-<p align="center"></p>
+<p align="center"><img width="1440" alt="Screenshot 2023-05-10 at 19 45 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/ab6c9939-7dbd-441d-a183-cbc0161676c8"></p>
     
  * #### iPad Air 
    
