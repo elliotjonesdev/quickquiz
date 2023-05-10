@@ -51,6 +51,9 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 ## Testing
 HTML - No errors were found when passing throught the official W3C validator
 
+<p align="center">
+<img width="1440" alt="Screenshot 2023-05-10 at 18 43 11" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/72e45415-5ebf-450b-8460-9c95a50c589b">
+ </p>
 
 
 
