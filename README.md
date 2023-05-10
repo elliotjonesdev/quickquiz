@@ -49,16 +49,15 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  * Additional levels - the game will have 3 levels of increasing difficulty to further engage the player with further challenge. The addition of a level indicator in the game area to signify to the player the stage they have reached in the game.
 
 ## Testing
-HTML - No errors were found when passing throught the official [W3C validator](https://validator.w3.org/)
+ * HTML - No errors were found when passing throught the official [W3C validator](https://validator.w3.org/)
 
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-10 at 18 43 11" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/72e45415-5ebf-450b-8460-9c95a50c589b">
  </p>
 
-CSS - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator)
+ * CSS - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator)
 <p align="center">
-
- </p>
+<img width="1440" alt="Screenshot 2023-05-10 at 19 02 33" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/8a92befa-69fa-4444-ab32-d6079a5f624c"> </p>
 
 
 
