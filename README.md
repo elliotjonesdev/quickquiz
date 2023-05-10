@@ -59,8 +59,10 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-10 at 19 02 33" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/8a92befa-69fa-4444-ab32-d6079a5f624c"> </p>
 
- * JAVASCRIPT - No warnings were found when passing throught the official [JS Hint validator](https://jshint.com/)
- 
+ * JAVASCRIPT - No warnings were found when passing throught the official [JSHint validator](https://jshint.com/)
+ <p align="center">
+ <img width="1440" alt="Screenshot 2023-05-10 at 19 14 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/4893700e-528e-456e-8efe-8293f0e46bab">
+ </p>
 
 
 
