@@ -49,8 +49,9 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  * Additional levels - the game will have 3 levels of increasing difficulty to further engage the player with further challenge. The addition of a level indicator in the game area to signify to the player the stage they have reached in the game.
 
 ## Testing
- * HTML - No errors were found when passing throught the official [W3C validator](https://validator.w3.org/)
 
+### Code validation
+ * HTML - No errors were found when passing throught the official [W3C validator](https://validator.w3.org/)
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-10 at 18 43 11" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/72e45415-5ebf-450b-8460-9c95a50c589b">
  </p>
@@ -73,15 +74,16 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 ### Responsiveness
 
 * #### iPhone SE
-<p align="center"><img width="788" alt="Screenshot 2023-02-21 at 22 33 24" src="https://user-images.githubusercontent.com/119816371/220475247-0b8c9b5e-f01f-42f1-8f15-c3c9fbffd2d2.png"></p>
+<p align="center"></p>
     
  * #### iPad Air 
    
   <p align="center"><img width="787" alt="Screenshot 2023-02-21 at 22 38 46" src="https://user-images.githubusercontent.com/119816371/220475020-d96f8f07-a498-4284-b447-7c03558d35df.png"></p>
   
 ### Lighthouse Analysis
-
+ <p align="center">
 <img width="1440" alt="Screenshot 2023-05-10 at 19 39 18" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/6438b1e1-e33b-4897-a8cf-47bc66da0b2d">
+ </p>
 
 
 ### Browser Compatibility
