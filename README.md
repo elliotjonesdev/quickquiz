@@ -73,7 +73,7 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
   <p align="center"><img width="1440" alt="Screenshot 2023-05-10 at 19 47 46" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/647ee7ef-9f0c-4bab-94af-39f32e76c77e"></p>
   
  * #### Macbook Pro 
-  <p align="center"></p>
+  <p align="center"><img width="1440" alt="Screenshot 2023-05-10 at 19 50 21" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/85616198-0d7d-40be-ae8b-fc673d684161">/p>
   
   
 ### Lighthouse Analysis
