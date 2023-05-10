@@ -81,7 +81,8 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
   
 ### Lighthouse Analysis
 
-<img width="1433" alt="Screenshot 2023-02-22 at 15 21 35" src="https://user-images.githubusercontent.com/119816371/220667883-c784e34d-12cb-4a16-af14-7d3f976074cb.png">  
+<img width="1440" alt="Screenshot 2023-05-10 at 19 39 18" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/6438b1e1-e33b-4897-a8cf-47bc66da0b2d">
+
 
 ### Browser Compatibility
 
