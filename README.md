@@ -105,14 +105,14 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  * #### The site was deployed to GitHub pages. The steps taken to deploy the site are as follows:
    * In the GitHub repository, navigate to the Settings tab, then to pages in the sidebar
    * Under build and deployment, select the Main Branch, and save
-   * Once the Main Branch branch has been selected and saved the page will be automatically refreshed with a detailed ribbon live display to indicate the successful deployment.
+   * Once the Main Branch branch has been selected and saved the page will display an active lingk to indicate the successful deployment.
 
 ## Credits
 ### Content
- * The logo icon was created using [Pixilart](https://www.pixilart.com/)
+* Inspiration for the game idea was taken from [Electrobit](https://electrobit.hashnode.dev/making-a-quiz-game-with-javascript)
 
 ### Media
- * Images for the website were taken from [Unsplash](https://unsplash.com/)
+ * The logo icon was created using [Pixilart](https://www.pixilart.com/)
 
 
 
