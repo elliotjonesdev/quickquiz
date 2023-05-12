@@ -81,16 +81,12 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 <img width="1440" alt="Screenshot 2023-05-10 at 19 39 18" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/6438b1e1-e33b-4897-a8cf-47bc66da0b2d">
  </p>
 
-
-
-
-
 ### Browser Compatibility
 
  * #### Safari
  The following screenshot shows desktop view for Safari browser
  
- <img width="1344" alt="Screenshot 2023-02-24 at 16 36 47" src="https://user-images.githubusercontent.com/119816371/221236676-34e24385-f332-4b8c-984d-b0d12127f0ce.png">
+<img width="1440" alt="Screenshot 2023-05-12 at 20 36 23" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/b0abd9fd-0dfd-436b-82b5-27c68cd551a9">
  
  * #### Chrome
   The following screenshot shows desktop view for Chrome browser
