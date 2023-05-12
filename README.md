@@ -112,7 +112,7 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 * Inspiration for the game idea was taken from [Electrobit](https://electrobit.hashnode.dev/making-a-quiz-game-with-javascript)
 
 ### Media
- * The logo icon was created using [Pixilart](https://www.pixilart.com/)
+ * The logo icon was created using templates icons from [Pixilart](https://www.pixilart.com/)
 
 
 
