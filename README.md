@@ -95,7 +95,7 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  * #### Chrome
   The following screenshot shows desktop view for Chrome browser
   
-<img width="1440" alt="Screenshot 2023-02-24 at 16 47 16" src="https://user-images.githubusercontent.com/119816371/221237877-35dd9e50-9e1d-4fb0-b5ab-8e0e47e834bd.png">
+<img width="1440" alt="Screenshot 2023-05-12 at 20 34 25" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/bcf77c98-874f-40dd-b792-935900e4cd35">
 
 ### User Stories
 <p align="center"><img width="981" alt="Screenshot 2023-05-10 at 21 53 10" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/1e2d62e0-9b2d-4159-a0bc-b266d87ecb94"></p>
