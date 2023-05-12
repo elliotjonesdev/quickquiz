@@ -104,8 +104,8 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
  
  * #### The site was deployed to GitHub pages. The steps taken to deploy the site are as follows:
    * In the GitHub repository, navigate to the Settings tab, then to pages in the sidebar
-   * From the source section drop-down menu, select the Master Branch
-   * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+   * Under build and deployment, select the Main Branch, and save
+   * Once the Main Branch branch has been selected and saved the page will be automatically refreshed with a detailed ribbon live display to indicate the successful deployment.
 
 ## Credits
 ### Content
