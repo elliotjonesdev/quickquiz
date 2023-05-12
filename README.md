@@ -34,7 +34,7 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 </p>
 
 * #### Score area
- * The score area is designed with high contrast in mind and uses a bright green with black bold text to draw the eye to the scre as it updates when in play mode. When the player chooses an answer the score area automatically updates, and also resets to zero when the user clicks the restart button ready for the next game.
+  * The score area is designed with high contrast in mind and uses a bright green with black bold text to draw the eye to the screen as it updates when in play mode. When the player chooses an answer the score area automatically updates, and also resets to zero when the user clicks the restart button ready for the next game.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 33 09" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/b25d4a08-9503-4967-8f67-6de6bfc76128">
   </p>
