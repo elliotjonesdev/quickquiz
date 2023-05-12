@@ -109,10 +109,8 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the tou
 
 ## Credits
 ### Content
- * The responsive navbar was taken from [Bootstrap](https://getbootstrap.com/docs/4.5/components/navbar/)
- * The logo icon, page icons and social icons were taken from [Font Awesome](https://fontawesome.com/v4/icons/)
- * The page layout was generated using guidance from a [Responsive Bootstrap Website Tutorial](https://www.youtube.com/watch?v=Zn64_IVLO88&t=833s)
- * The contact form layout was created with code from [Bootstrapious](https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form)
+ * The logo icon was created using [Pixilart](https://www.pixilart.com/)
+
 ### Media
  * Images for the website were taken from [Unsplash](https://unsplash.com/)
 
