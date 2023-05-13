@@ -16,7 +16,7 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz experience
 
 ## Features
 * #### Logo and welcome message
-  * The logo has been created in a simple pixelated format of a flame, designed to match with the name QUICKFIRE QUIZ, sparking initial interest for the game player in a fun and playful format. The welcome message is simple and bold to explain in essence what the game is meant to do for the user. The high contrast purple against the white background suggests fun and adds to visual appeal.
+  * The logo has been created in a simple pixelated format of a flame, designed to match with the name QUICKFIRE QUIZ, sparking initial interest for the game player in a fun and playful format. The game has a simple retro block styling which is echoed by the use of a pixel style logo. The welcome message is simple and bold to explain in essence what the game is meant to do for the user. The high contrast purple against the white background suggests fun and adds to visual appeal.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 10 01" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/d4af54cc-7550-498f-ab5d-a7debc9b0f46"></p>
 
