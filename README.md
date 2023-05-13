@@ -21,7 +21,7 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz experience
 <img width="1440" alt="Screenshot 2023-05-09 at 20 10 01" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/d4af54cc-7550-498f-ab5d-a7debc9b0f46"></p>
 
 * #### Start and restart buttons
-  * The start and restart buttons are enlarged to prompt the game player to take action, and when clicked automatically trigger the game to play or replay. The grey buttons create high contrast with the red background of the game area.
+  * The start and restart buttons are enlarged to prompt the game player to take action, and when clicked automatically trigger the game to play or replay. The grey buttons create high contrast with the red background of the game area as a clear visual cue for the game player.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 25 42" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/cccf3752-f6af-4b60-a801-689e848bdea6">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 26 43" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/08eb6734-6ac9-4ca4-9c45-c0304c2f99c0">
@@ -34,12 +34,13 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz experience
 </p>
 
 * #### Score area
-  * The score area is designed with high contrast in mind and uses a bright green with black bold text to draw the eye to the screen as it updates when in play mode. When the player chooses an answer the score area automatically updates, and also resets to zero when the user clicks the restart button ready for the next game.
+  * The score area is designed with high contrast in mind and uses a bright green with black bold text to draw the eye to the screen as it updates when in play mode. When the player chooses an answer the score area automatically updates and increments, and also resets to zero when the user clicks the restart button ready for the next game.
 <p align="center">
 <img width="1440" alt="Screenshot 2023-05-09 at 20 33 09" src="https://github.com/elliotjonesdev/quickquiz/assets/119816371/b25d4a08-9503-4967-8f67-6de6bfc76128">
   </p>
 
 ## Initial Wireframes
+  * The initial wireframes show the simple one page concept for the game with clearly defined visual areas, in a block style that will allow the user to easily find their way around during game play. 
 <p align="center">
   <img width="636" alt="Screenshot 2023-05-08 at 14 19 51" src="https://user-images.githubusercontent.com/119816371/236834995-79029e29-a7f1-4973-b4dd-9cd333e1d0cf.png">
 </p>
