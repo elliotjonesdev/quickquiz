@@ -5,7 +5,7 @@ QUICKFIRE QUIZ is a responsive and interactive front end quiz game application t
 
 ## UX
 ### Project Goals
-The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the touch of a button, that is easy to interact with and that provides a quick moment of light enjoyment, entertainment and test of some basic general knowledge questions. The website is designed for ease of use as the game player selects each answer, automatically progressing through the questions in a straight forward manner. The playability of the game allows the user to easily restart the game at the click of a button and try again, making using QUICKFIRE QUIZ an enjoyable experience.
+The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz at the touch of a button, that is easy to interact with and that provides a quick moment of light enjoyment, entertainment and test of some basic general knowledge questions. The website is designed for ease of use as the game player selects each answer, automatically progressing through the questions in a straight forward manner. The playability of the game allows the user to easily restart the game at the click of a button and try again, making QUICKFIRE QUIZ a playable experience.
 
 
 #### User Goals
