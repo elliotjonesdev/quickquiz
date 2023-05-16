@@ -1,3 +1,5 @@
+
+/* styling for the body of the game */
 body {
   font-family: Courier, Helvetica, sans-serif;
   --hue: var(--hue-neutral);
@@ -11,6 +13,7 @@ body {
   background-color: white;
 }
 
+/* styling for the body of the game */
 .container {
   margin-top: 90px;
   width: 800px;
@@ -20,7 +23,9 @@ body {
   border: solid 10px;
 }
 
+/* styling for the game logo */
 .logo {
+
   position: absolute;
   top: 10px;
   margin: auto;
@@ -28,14 +33,14 @@ body {
   width: 100px;
 
 }
-
+/* styling for the answer button layout */
 .btn-grid {
   display: grid;
   grid-template-columns: repeat(2, auto);
   gap: 10px;
   margin: 20px 0;
 }
-
+/* styling for the restart button */
 #restart-btn {
   color: black;
   outline: none;
@@ -59,7 +64,7 @@ body {
   border-color: black;
   border-width: 4px;
 }
-
+/* styling for the start button */
 .start-btn {
   font-size: 1.5rem;
   font-weight: bold;
@@ -67,17 +72,17 @@ body {
   color: black;
   width: 120px;
 }
-
+/* styling for the restart button */
 .restart-btn {
   width: 120px;
 }
-
+/* styling for the controls area */
 .controls {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
+/* styling for main title of the game */
 .main-title {
   position: absolute;
   top: 80px;
@@ -95,7 +100,7 @@ body {
   width: 80%;
   padding: 10px 0;
 }
-
+/* styling for the score area */
 .score-area {
   position: absolute;
   bottom: 100px;
@@ -112,6 +117,7 @@ body {
 }
 
 @media screen and (max-width: 1200px) {
+   /* CSS rules for screens with a maximum width of 1200px */
   .main-title {
     position: absolute;
     top: 100px;
