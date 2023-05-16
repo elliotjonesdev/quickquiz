@@ -95,11 +95,9 @@ function endGame() {
   answerButtonsElement.style.visibility = 'hidden'; // Hide the answer buttons
 }
 // Questions
-const questions = [
-  {
+const questions = [{
     question: "What is the 400m athletics mens world record?",
-    answers: [
-      {
+    answers: [{
         text: "41.67s",
         correct: false,
       },
@@ -119,8 +117,7 @@ const questions = [
   },
   {
     question: "What is the biggest ever grossing movie?",
-    answers: [
-      {
+    answers: [{
         text: "Lion King",
         correct: false,
       },
@@ -140,8 +137,7 @@ const questions = [
   },
   {
     question: "What is a Juicy Salif?",
-    answers: [
-      {
+    answers: [{
         text: "Lemon juicer",
         correct: true,
       },
@@ -161,8 +157,7 @@ const questions = [
   },
   {
     question: "When was the first Harry Potter movie released?",
-    answers: [
-      {
+    answers: [{
         text: "2000",
         correct: false,
       },
@@ -182,8 +177,7 @@ const questions = [
   },
   {
     question: "What is an egret?",
-    answers: [
-      {
+    answers: [{
         text: "Car",
         correct: false,
       },

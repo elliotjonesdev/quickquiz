@@ -1,4 +1,3 @@
-
 /* styling for the body of the game */
 body {
   font-family: Courier, Helvetica, sans-serif;
@@ -33,6 +32,7 @@ body {
   width: 100px;
 
 }
+
 /* styling for the answer button layout */
 .btn-grid {
   display: grid;
@@ -40,6 +40,7 @@ body {
   gap: 10px;
   margin: 20px 0;
 }
+
 /* styling for the restart button */
 #restart-btn {
   color: black;
@@ -64,6 +65,7 @@ body {
   border-color: black;
   border-width: 4px;
 }
+
 /* styling for the start button */
 .start-btn {
   font-size: 1.5rem;
@@ -72,16 +74,19 @@ body {
   color: black;
   width: 120px;
 }
+
 /* styling for the restart button */
 .restart-btn {
   width: 120px;
 }
+
 /* styling for the controls area */
 .controls {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 /* styling for main title of the game */
 .main-title {
   position: absolute;
@@ -100,6 +105,7 @@ body {
   width: 80%;
   padding: 10px 0;
 }
+
 /* styling for the score area */
 .score-area {
   position: absolute;
@@ -117,7 +123,8 @@ body {
 }
 
 @media screen and (max-width: 1200px) {
-   /* CSS rules for screens with a maximum width of 1200px */
+
+  /* CSS rules for screens with a maximum width of 1200px */
   .main-title {
     position: absolute;
     top: 100px;
