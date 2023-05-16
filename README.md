@@ -105,6 +105,10 @@ The primary goal of QUICKFIRE QUIZ is to provide a quick and fun quiz experience
  ## Deployment
  
  * #### The site was deployed to GitHub pages. The steps taken to deploy the site are as follows:
+   * To create an empty Git repository use the **git init** command
+   * To add a change to the staging area use the **git add .** command
+   * To create a commit use the **git commit -m** command and add a description
+   * To upload local repository content to a remote repository use the **git push** command
    * In the GitHub repository, navigate to the Settings tab, then to pages in the sidebar
    * Under build and deployment, select the Main Branch, and save
    * Once the Main Branch branch has been selected and saved the page will display an active lingk to indicate the successful deployment.
